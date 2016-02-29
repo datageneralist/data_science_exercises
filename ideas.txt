@@ -1,1 +1,5 @@
 Testing my repository for data science class
+
+Ideas for final project:
+- Exploratory data analysis
+- Analyze trade data
